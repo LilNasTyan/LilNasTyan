@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Программирование\Задачи\Task1\Task1\main.c(4,8): warning C4101: a: неиспользованная локальная переменная
+C:\Users\LilNasTyan\Desktop\Программирование\Задачи\Task1\Task1\main.c(4,11): warning C4101: b: неиспользованная локальная переменная
+C:\Users\LilNasTyan\Desktop\Программирование\Задачи\Task1\Task1\main.c(5,8): warning C4101: s: неиспользованная локальная переменная
+  Task1.vcxproj -> C:\Users\LilNasTyan\Desktop\Программирование\Задачи\Task1\x64\Debug\Task1.exe
