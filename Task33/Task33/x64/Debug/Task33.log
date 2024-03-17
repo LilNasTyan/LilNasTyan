@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task33\Task33\main.c(4,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Task33.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task33\x64\Debug\Task33.exe
