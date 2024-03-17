@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task73\Task73\main.c(13,12): error C2296: "%": недопустимо, поскольку тип левого операнда — "float"
