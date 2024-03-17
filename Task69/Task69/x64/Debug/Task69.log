@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task69\Task69\main.c(12,27): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+  C:\Users\LilNasTyan\Desktop\Задачки\Task69\Task69\main.c(12,27):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 3
+  
+  Task69.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task69\x64\Debug\Task69.exe
