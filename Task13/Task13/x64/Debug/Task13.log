@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task13\Task13\main.c(4,8): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\LilNasTyan\Desktop\Задачки\Task13\Task13\main.c(5,8): warning C4101: x2: неиспользованная локальная переменная
+  Task13.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task13\x64\Debug\Task13.exe
