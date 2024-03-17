@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task60\Task60\main.c(21,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\LilNasTyan\Desktop\Задачки\Task60\Task60\main.c(8,14): warning C4305: инициализация: усечение из "double" в "const float"
+  Task60.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task60\x64\Debug\Task60.exe
