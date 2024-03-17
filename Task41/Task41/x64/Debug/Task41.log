@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task41\Task41\main.c(6,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\LilNasTyan\Desktop\Задачки\Task41\Task41\main.c(5): error C4700: использована неинициализированная локальная переменная "c"
+C:\Users\LilNasTyan\Desktop\Задачки\Task41\Task41\main.c(5): error C4700: использована неинициализированная локальная переменная "b"
+C:\Users\LilNasTyan\Desktop\Задачки\Task41\Task41\main.c(5): error C4700: использована неинициализированная локальная переменная "a"
