@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\LilNasTyan\Desktop\Задачки\Task25\Task25\main.c(5,14): warning C4305: инициализация: усечение из "double" в "const float"
+  Task25.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task25\x64\Debug\Task25.exe
