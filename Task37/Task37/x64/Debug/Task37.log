@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\LilNasTyan\Desktop\Задачки\Task37\Task37\main.c(7,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-  Task37.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task37\x64\Debug\Task37.exe
