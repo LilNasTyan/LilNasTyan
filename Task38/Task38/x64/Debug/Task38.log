@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\LilNasTyan\Desktop\Задачки\Task38\Task38\main.c(11,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-  Task38.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task38\x64\Debug\Task38.exe
