@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Users\LilNasTyan\Desktop\Задачки\Task40\Task40\main.c(8,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\LilNasTyan\Desktop\Задачки\Task40\Task40\main.c(6,8): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\LilNasTyan\Desktop\Задачки\Task40\Task40\main.c(6,20): warning C4305: инициализация: усечение из "double" в "float"
-  Task40.vcxproj -> C:\Users\LilNasTyan\Desktop\Задачки\Task40\x64\Debug\Task40.exe
