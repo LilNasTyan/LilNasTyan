@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\LilNasTyan\Desktop\Задачки\Task66\Task66\main.c(25,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-LINK : fatal error LNK1168: не удается открыть C:\Users\LilNasTyan\Desktop\Задачки\Task66\x64\Debug\Task66.exe для записи
